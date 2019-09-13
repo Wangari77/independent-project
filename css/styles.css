@@ -1,5 +1,7 @@
 body {
     background-color: pink;
+    padding: 0px;
+    margin: 0px;
 }
 
 img {
@@ -32,7 +34,7 @@ li {
     color: white;
     text-align: center;
     padding:10px;
-    text-decoration: none;
+    text-decoration-color: aquamarine;
   }
   
   li a:hover {
@@ -41,7 +43,36 @@ li {
   
   .a p {
     font-size: 40px;
-
+    color:black;
   }
 
+  .b {
+font-size: 30px;
+color: black;
+text-align: center;
+}
 
+.b h2{
+  color: purple;
+   text-decoration-line: underline;
+}
+
+.b h3 {
+  border: 2px solid black;
+margin-left: 500px;
+margin-right: 500px;
+color: purple;
+border-radius: 20px;
+}
+
+.b .one {
+  margin-right: 500px;
+  margin-left: 500px;
+}
+.intro {
+  background-image: url(http://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg);
+}
+
+.a>nav>ul>li{
+  margin-top: 0px;
+}
