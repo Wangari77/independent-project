@@ -8,13 +8,15 @@ img {
   width: 300px;
   height: 300px;
   border-radius: 500px;
-   
+  
+
 }
 
 .a h1 {
   font-size: 40px;
   color:purple;
   text-align: center;
+  padding: 50px;
   }
 
 li {
@@ -27,6 +29,7 @@ li {
   
   li {
     float: right;
+    clear: left;
   }
   
   li a {
@@ -74,5 +77,20 @@ border-radius: 20px;
 }
 
 .a>nav>ul>li{
-  margin-top: 0px;
+  margin: 200px;
+}
+
+.b .two {
+  margin-right: 500px;
+  margin-left: 500px; 
+}
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: yellowgreen;
+  font-style: italic;
+  font-size: 30px;
 }
