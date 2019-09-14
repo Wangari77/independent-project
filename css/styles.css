@@ -98,6 +98,8 @@ font-size: 30px;
   text-align: center;
 }
 
+
+
 h2 {
 color: purple;
 text-decoration-line: underline;
@@ -106,4 +108,9 @@ text-decoration-line: underline;
 .contacts {
   font-size: 25px;
   text-align: center;
+}
+
+.contacts {
+   font-size: 20px;
+   color: blue;
 }
