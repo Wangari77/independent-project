@@ -47,18 +47,18 @@ li {
     margin-left: 1115px;
   }
 
-  .b {
-font-size: 30px;
+  .about {
+font-size: 25px;
 color: black;
 text-align: center;
 }
 
-.b h2{
+.about h2{
   color: purple;
    text-decoration-line: underline;
 }
 
-.b h3 {
+.about h3 {
   border: 2px solid black;
 margin-left: 500px;
 margin-right: 500px;
@@ -66,7 +66,7 @@ color: purple;
 border-radius: 20px;
 }
 
-.b .one {
+.about .one {
   margin-right: 500px;
   margin-left: 500px;
 }
@@ -78,7 +78,7 @@ border-radius: 20px;
   margin: 200px;
 }
 
-.b .two {
+.about .two {
   margin-right: 500px;
   margin-left: 500px; 
 }
@@ -91,4 +91,16 @@ border-radius: 20px;
   color: darkgreen;
   font-style: italic;
   font-size: 30px;
+}
+
+.projects h2 {
+  font-size: 30px;
+  color: purple;
+  text-align: center;
+}
+
+h2 {
+  color: purple;
+  font-size: 40px;
+  text-decoration-line: underline;
 }
