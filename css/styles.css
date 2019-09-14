@@ -17,16 +17,13 @@ padding: 50px;
 }
 
 li {
-list-style-type: none;
 margin: 5px;
 padding: 0px;
-overflow: hidden;
 background-color:blue;
 }
 
 li {
   float: right;
-  clear: left;
 }
 
 li a {
@@ -38,7 +35,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: black;
 }
 
 .home p {
@@ -66,7 +63,7 @@ color: purple;
 border-radius: 20px;
 }
 
-.about .one {
+.about .UGIT pcoming {
 margin-right: 500px;
 margin-left: 500px;
 }
