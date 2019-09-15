@@ -20,10 +20,7 @@ li {
 margin: 5px;
 padding: 0px;
 background-color:blue;
-}
-
-li {
-  float: right;
+float: right;
 }
 
 li a {
@@ -40,8 +37,7 @@ li a:hover {
 
 .home p {
   font-size: 40px;
-  color:white;
-  margin-left: 1115px;
+  color: whitesmoke;
 }
 
 .about {
@@ -63,16 +59,13 @@ color: purple;
 border-radius: 20px;
 }
 
-.about .UGIT pcoming {
+.about .Upcoming {
 margin-right: 500px;
 margin-left: 500px;
 }
-.intro {
+.home {
 background-image: url(http://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg);
-}
-
-.a>nav>ul>li{
-margin: 200px;
+background-size: cover;
 }
 
 .about .two {
@@ -118,6 +111,7 @@ h3 {
 p {
   font-size: 25px;
 }
+
 
 
 
